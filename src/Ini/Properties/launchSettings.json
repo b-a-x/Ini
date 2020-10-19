@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Ini": {
+      "commandName": "Project",
+      "commandLineArgs": "s DEBAG k PlentySockMaxQSize"
+    }
+  }
+}
